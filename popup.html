@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Auto Google Form Filler</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Auto Form Filler</h1>
+      <div class="dark-mode-toggle">
+        <label class="switch">
+          <input type="checkbox" id="darkModeToggle">
+          <span class="slider round"></span>
+        </label>
+      </div>
+    </div>
+    <div class="input-group custom-fields-container">
+      <label>Custom Fields</label>
+      <button id="addField">Add Field</button>
+      <div id="customFields">
+        <!-- Custom fields will be added here -->
+      </div>
+    </div>
+    <div class="input-group">
+      <label for="autoSubmitTime">Auto-Submit Time (seconds)</label>
+      <input type="number" id="autoSubmitTime" placeholder="15" min="1" />
+    </div>
+    <div class="actions">
+      <button id="save">Save</button>
+      <button id="autofill">Autofill</button>
+      <div class="toggle">
+        <label for="autoSubmit">Enable Auto-Submit</label>
+        <input type="checkbox" id="autoSubmit" />
+      </div>
+    </div>
+    <div class="github-icon">
+      <a href="https://github.com/Ranjan1231231" target="_blank">
+        <img src="icons/github-logo.png" alt="GitHub" width="30" height="30">
+      </a>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
