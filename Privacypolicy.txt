@@ -1,0 +1,32 @@
+Privacy Policy for Auto Google Form Filler
+Effective Date: 21-10-2024
+
+Last Updated: 21-10-2024
+
+Introduction
+This Privacy Policy explains how Auto Google Form Filler ("we," "our," or "us") operates concerning your information when you use our browser extension. We are committed to protecting your privacy and ensuring that your personal information is handled responsibly.
+
+By using our extension, you consent to the terms outlined in this policy. If you do not agree with the terms of this policy, please do not use our extension.
+
+Information We Do Not Collect
+Auto Google Form Filler is designed to function solely on your machine without collecting any personal information or user data. The extension does not transmit, store, or share any information over the internet.
+
+1. No Personal Data
+We do not collect any personally identifiable information (PII) from users. All functionalities, including field value saving and auto-filling, are managed locally on your device.
+
+2. No Non-Personal Data
+We do not track or collect any non-personal data related to your usage of the extension. There are no analytics or logging features in place that would monitor your interaction with the extension.
+
+How the Extension Works
+Local Functionality: All data related to form filling is stored and processed on your local machine. The extension saves the values you input and uses them to autofill Google Forms when you open them.
+No Network Connection: The extension does not connect to any external servers or networks. All operations are conducted within your browser environment.
+Security
+Since the extension operates entirely on your local machine and does not collect or transmit data, there are no security risks associated with data storage or transfer. However, we recommend that users take standard security measures to protect their devices and browsers.
+
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date. We encourage you to review this policy periodically for any updates.
+
+Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+Email: elitemaker1231231@gmail.com
